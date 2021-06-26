@@ -1,2 +1,4 @@
 x = 7
-print("hello world")
+y = 8
+z = x + y
+print(z)
